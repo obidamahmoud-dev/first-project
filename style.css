@@ -314,7 +314,7 @@ animation: img 4s infinite ease-in-out;
 .card button:hover{
     background:var(--main-color);
 }
-.card a{
+.card a button{
     width:100%;
     padding:12px 90px;
     font-size: small;
@@ -328,7 +328,7 @@ animation: img 4s infinite ease-in-out;
     text-decoration: none;
 }
 
-.card a:hover{
+.card a button:hover{
     background:var(--main-color);
 }
 
